@@ -1,0 +1,48 @@
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\obj\Debug\net5.0\laba2.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\obj\Debug\net5.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\obj\Debug\net5.0\laba2.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\obj\Debug\net5.0\laba2.AssemblyInfo.cs
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\obj\Debug\net5.0\laba2.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\bin\Debug\net5.0\laba2.exe
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\bin\Debug\net5.0\laba2.deps.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\bin\Debug\net5.0\laba2.runtimeconfig.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\bin\Debug\net5.0\laba2.runtimeconfig.dev.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\bin\Debug\net5.0\laba2.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\bin\Debug\net5.0\ref\laba2.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\bin\Debug\net5.0\laba2.pdb
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\obj\Debug\net5.0\laba2.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\obj\Debug\net5.0\ref\laba2.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\obj\Debug\net5.0\laba2.pdb
+C:\Users\Макс\source\repos\ООП 2 СЕМ\laba2\obj\Debug\net5.0\laba2.genruntimeconfig.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\bin\Debug\net5.0\laba2.exe
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\bin\Debug\net5.0\laba2.deps.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\bin\Debug\net5.0\laba2.runtimeconfig.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\bin\Debug\net5.0\laba2.runtimeconfig.dev.json
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\bin\Debug\net5.0\laba2.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\bin\Debug\net5.0\ref\laba2.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\bin\Debug\net5.0\laba2.pdb
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\obj\Debug\net5.0\laba2.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\obj\Debug\net5.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\obj\Debug\net5.0\laba2.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\obj\Debug\net5.0\laba2.AssemblyInfo.cs
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\obj\Debug\net5.0\laba2.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\obj\Debug\net5.0\laba2.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\obj\Debug\net5.0\ref\laba2.dll
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\obj\Debug\net5.0\laba2.pdb
+C:\Users\Макс\source\repos\ООП 2 СЕМ\lab2\obj\Debug\net5.0\laba2.genruntimeconfig.cache
+C:\Users\Макс\source\repos\м+я\я\lab2\bin\Debug\net5.0\laba2.exe
+C:\Users\Макс\source\repos\м+я\я\lab2\bin\Debug\net5.0\laba2.deps.json
+C:\Users\Макс\source\repos\м+я\я\lab2\bin\Debug\net5.0\laba2.runtimeconfig.json
+C:\Users\Макс\source\repos\м+я\я\lab2\bin\Debug\net5.0\laba2.runtimeconfig.dev.json
+C:\Users\Макс\source\repos\м+я\я\lab2\bin\Debug\net5.0\laba2.dll
+C:\Users\Макс\source\repos\м+я\я\lab2\bin\Debug\net5.0\ref\laba2.dll
+C:\Users\Макс\source\repos\м+я\я\lab2\bin\Debug\net5.0\laba2.pdb
+C:\Users\Макс\source\repos\м+я\я\lab2\obj\Debug\net5.0\laba2.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\м+я\я\lab2\obj\Debug\net5.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\м+я\я\lab2\obj\Debug\net5.0\laba2.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\м+я\я\lab2\obj\Debug\net5.0\laba2.AssemblyInfo.cs
+C:\Users\Макс\source\repos\м+я\я\lab2\obj\Debug\net5.0\laba2.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\м+я\я\lab2\obj\Debug\net5.0\laba2.dll
+C:\Users\Макс\source\repos\м+я\я\lab2\obj\Debug\net5.0\ref\laba2.dll
+C:\Users\Макс\source\repos\м+я\я\lab2\obj\Debug\net5.0\laba2.pdb
+C:\Users\Макс\source\repos\м+я\я\lab2\obj\Debug\net5.0\laba2.genruntimeconfig.cache
